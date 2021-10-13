@@ -17,7 +17,7 @@ The bioRxiv preprint of the paper can be accessed [here](https://www.biorxiv.org
 
 ### GitHub Link to  Alevin QC Reports Folder
 
-* <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/alevin" target="_blank">Alevin QC reports for the seven scRNAseq samples</a>.
+* <a href="https://github.com/csglab/transcriptional_reprogramming_muscle_cells/tree/master/assets/notebooks/alevin" target="_blank">Alevin QC reports for the seven scRNAseq samples</a>.
 
 ### Reproducible scRNA-seq Analysis Notebooks
 
