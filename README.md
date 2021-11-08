@@ -4,5 +4,5 @@ This repository contains scripts and analysis code for the paper "Transcriptiona
 
 The bioRxiv preprint of the paper can be accessed [here](https://www.biorxiv.org/content/10.1101/2021.05.25.445621v1).
 
-The website forthe paper can be accessed [here](https://csglab.github.io/transcriptional_reprogramming_muscle_cells/).
+The website for the paper can be accessed [here](https://csglab.github.io/transcriptional_reprogramming_muscle_cells/).
  
