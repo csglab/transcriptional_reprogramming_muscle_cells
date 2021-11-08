@@ -47,6 +47,9 @@ The bioRxiv preprint of the paper can be accessed [here](https://www.biorxiv.org
 1. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/atacseq_analysis/atac_reports/qc_old.html" target="_blank">ATACseq worflow report for aged samples</a>.
 2. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/atacseq_analysis/atac_reports/qc_yng.html" target="_blank">ATACseq worflow report for young samples</a>.
 
+### Other Manuscript Analyses
+
+1. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/manuscript/dirichlet_regression.nb.html" target="_blank">Dirichlet Regression to determine the effect of aging on cell-type composition in FACS data</a>.
 
 ---------
 
