@@ -40,7 +40,7 @@ The bioRxiv preprint of the paper can be accessed [here](https://www.biorxiv.org
 1. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/bulk_rnaseq/1_pseudoalign_bulk.nb.html" target="_blank">Analysis of pseudoaligned reads</a>.
 2. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/bulk_rnaseq/2_combine_scrnaseq_bulk_stem.nb.html" target="_blank">Combining bulk RNAseq and scRNAseq data</a>.
 3. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/bulk_rnaseq/3_plot_bulk.nb.html" target="_blank">Plotting gene expression</a>.
-
+4. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/bulk_rnaseq/4_pseudoalign_bulk_combined_batches.nb.html" target="_blank">Analysis of pseudoaligned reads (two batches)</a>.
 
 ### ATACseq Workflow Reports
 
@@ -50,6 +50,8 @@ The bioRxiv preprint of the paper can be accessed [here](https://www.biorxiv.org
 ### Other Manuscript Analyses
 
 1. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/manuscript/dirichlet_regression.nb.html" target="_blank">Dirichlet Regression to determine the effect of aging on cell-type composition in FACS data</a>.
+2. <a href="{{ BASE_PATH }}/transcriptional_reprogramming_muscle_cells/assets/notebooks/manuscript/tabula_muris_analysis_stem.nb.html" target="_blank">Comparison to Tabula Muris data </a>.
+
 
 ---------
 
